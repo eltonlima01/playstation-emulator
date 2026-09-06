@@ -2,7 +2,7 @@
 
 class Cpu {
  public:
-  uint32_t pc;
+  uint32_t pc{0xbfc00000};
 
   void run_next_instruction() {
     uint32_t pc{this->pc};
