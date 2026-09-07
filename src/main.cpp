@@ -91,3 +91,5 @@ class Interconnect {
     }
   }
 };
+
+int main() {}
