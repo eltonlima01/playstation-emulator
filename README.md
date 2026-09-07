@@ -8,4 +8,4 @@
 
 </div>
 
-A PlayStation 1 emulator written in C++ based on Lionel Flandrin's Playstation Emulation Guide.
+A PlayStation 1 emulator written in C++ based on Lionel Flandrin's [Playstation Emulation Guide](/docs/guide.PDF).
